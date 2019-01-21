@@ -1,2 +1,2 @@
 # HW-Mind-Studio
-Huawei mind studio &amp; Atlas 200 DK usage
+This repos is for Huawei Mind Studio &amp; Atlas 200 DK related docs. Most of docs can be found at [Official Docs](https://www.huawei.com/minisite/ascend/cn/file.html).
